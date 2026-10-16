@@ -1,6 +1,10 @@
 The Markdown Package for TeX
 ============================
 
+Optional conversion tools and agent skills are in [addons](addons/README.md).
+The [LaTeX conversion add-on](addons/tex-to-markdown/SKILL.md) bootstraps
+native Markdown–TeX sources and reports constructs needing manual review.
+
 [![license](https://img.shields.io/github/license/witiko/markdown)](LICENSE)
 [![ci](https://github.com/witiko/markdown/actions/workflows/main.yml/badge.svg)][ci]
 [![release](https://img.shields.io/github/release/witiko/markdown)][release]
